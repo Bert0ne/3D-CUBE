@@ -1,6 +1,4 @@
-# MY CV in HTML
->Here u can see my progress, and see how to
-build a CV in HTML and CSS
+Simple 3D cube in css
 
 ## DEMO
 
